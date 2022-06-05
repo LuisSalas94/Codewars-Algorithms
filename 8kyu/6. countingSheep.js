@@ -1,0 +1,59 @@
+/* 
+https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript
+
+Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).
+*/
+
+var array1 = [
+	true,
+	true,
+	true,
+	false,
+	true,
+	true,
+	true,
+	true,
+	true,
+	false,
+	true,
+	false,
+	true,
+	false,
+	false,
+	true,
+	true,
+	true,
+	true,
+	true,
+	false,
+	false,
+	true,
+	true,
+];
+
+function countSheeps(arrayOfSheep) {
+	let onlyTrue = arrayOfSheep.filter((ar) => {
+		return ar === true;
+	});
+
+	return onlyTrue.length;
+}
+
+console.log(countSheeps(array1));
+
+/* Other solution 
+
+function countSheeps(arrayOfSheeps) {
+  return arrayOfSheeps.filter(Boolean).length;
+}
+
+let countSheeps = x => x.filter( s => s ).length;
+
+function countSheeps(arrayOfSheep) {
+  return arrayOfSheep.reduce(function(result, current) {
+    if (current) result++;
+    return result;
+  }, 0);
+}
+
+*/
