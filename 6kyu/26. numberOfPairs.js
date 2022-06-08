@@ -1,5 +1,3 @@
-/* https://www.codewars.com/kata/58235a167a8cb37e1a0000db/train/javascript */
-
 function numberOfPairs(gloves) {
 	let objGloves = {};
 	const counter = [];
@@ -9,7 +7,6 @@ function numberOfPairs(gloves) {
 	}
 
 	Object.entries(objGloves).forEach(([key, value]) => {
-		value;
 		if (value >= 2) {
 			counter.push(value);
 		}

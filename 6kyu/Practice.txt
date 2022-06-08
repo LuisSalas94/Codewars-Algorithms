@@ -1,11 +1,12 @@
 06 - 12 June
 Arrays
-https://www.codewars.com/kata/58235a167a8cb37e1a0000db
-https://www.codewars.com/kata/54f0d905d49112f3a300055a
-https://www.codewars.com/kata/59c7e477dcc40500f50005c7
-https://www.codewars.com/kata/621470ede0bb220022c9e396
+https://www.codewars.com/kata/58235a167a8cb37e1a0000db -- 
+https://www.codewars.com/kata/59c7e477dcc40500f50005c7--
+https://www.codewars.com/kata/583d972b8bbc0402cf000121--
+
 https://www.codewars.com/kata/58e2708f9bd67fee17000080
-https://www.codewars.com/kata/583d972b8bbc0402cf000121
+
+
 https://www.codewars.com/kata/583a8bde28019d615a000035
 https://www.codewars.com/kata/5829ca646d02cd1a65000284
 https://www.codewars.com/kata/58291fea7ff3f640980000f9
