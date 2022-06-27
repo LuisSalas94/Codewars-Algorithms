@@ -5,9 +5,8 @@ https://www.codewars.com/kata/59c7e477dcc40500f50005c7--
 https://www.codewars.com/kata/583d972b8bbc0402cf000121--
 
 https://www.codewars.com/kata/58e2708f9bd67fee17000080
+https://www.codewars.com/kata/583a8bde28019d615a000035 - PENDIENTE
 
-
-https://www.codewars.com/kata/583a8bde28019d615a000035
 https://www.codewars.com/kata/5829ca646d02cd1a65000284
 https://www.codewars.com/kata/58291fea7ff3f640980000f9
 https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
@@ -15,7 +14,7 @@ https://www.codewars.com/kata/541103f0a0e736c8e40011d5
 https://www.codewars.com/kata/537529f42993de0e0b00181f
 https://www.codewars.com/kata/59175441e76dc9f9bc00000f
 https://www.codewars.com/kata/6171a85207ab6b003fadc43e
-https://www.codewars.com/kata/5bc7bb444be9774f100000c3
+
 https://www.codewars.com/kata/5f631ed489e0e101a70c70a0
 https://www.codewars.com/kata/57ebdf1c2d45a0ecd7002cd5
 https://www.codewars.com/kata/57f625992f4d53c24200070e
