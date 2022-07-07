@@ -5,7 +5,6 @@ function noonerize(numbers) {
 	}
 
 	const firstDigit = numbers[0].toString().split("")[0];
-
 	const secondDigit = numbers[1].toString().split("")[0];
 
 	function getNum(index, array, digit) {
@@ -17,7 +16,6 @@ function noonerize(numbers) {
 
 	const num1 = getNum(0, numbers, secondDigit);
 	const num2 = getNum(1, numbers, firstDigit);
-
 	return Math.abs(num1 - num2);
 }
 
